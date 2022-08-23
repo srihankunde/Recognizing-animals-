@@ -1,0 +1,47 @@
+ body{
+     background-color:aqua ;
+     font-family: 'Red Hat Mono', monospace;
+
+ }
+
+
+ .header_div{
+
+    background: white;
+    color:darkred;
+     
+ }
+
+ .header_div p{
+
+    color: crimson;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+
+ }
+
+ .main_div button{
+
+     margin-top: 30px;
+     width: 130px;
+     font-weight: bolder;
+     letter-spacing: 3px;
+
+
+ }
+
+
+
+ .copy_right_footer{
+
+    position: fixed;
+    color: greenyellow;
+    bottom:0;
+    width: 100%;
+    font-size: 18px;
+    background-color: chocolate;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px greenyellow;
+ }
